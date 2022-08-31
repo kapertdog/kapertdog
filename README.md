@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/c953efa8-fc06-4e4c-8158-fcc289fcf2e6.svg)](https://wakatime.com/@c953efa8-fc06-4e4c-8158-fcc289fcf2e6)
 - 😄 Pronouns: he / him / dog / any other
 - 🔊 Speak: en / ru & learning uk
-- 🔭 Currently working on: [Waba](https://github.com/kapertdog/WABA)
+- 🔭 Currently working on: [Waba](../../../waba)
 - 🌱 Currently learning:
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,cpp,js)](https://skills.thijs.gg)
