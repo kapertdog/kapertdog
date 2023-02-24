@@ -8,11 +8,11 @@
 
 🌱 Currently learning:
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,figma,md,qt,androidstudio)](https://skillicons.dev/)
+[![My Skills](https://skills.thijs.gg/icons?i=py,figma,md,bash,qt,androidstudio)](https://skillicons.dev/)
 
 ⏭ Want to learn:
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,js,cpp,cs)](https://skillicons.dev/)
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,js,cpp,cs,html)](https://skillicons.dev/)
 
 ## Badges
 [![wakatime](https://wakatime.com/badge/user/c953efa8-fc06-4e4c-8158-fcc289fcf2e6.svg)](https://wakatime.com/@c953efa8-fc06-4e4c-8158-fcc289fcf2e6)
