@@ -6,7 +6,7 @@
 
 🔭 Currently working on: [Shrimp 🦐](https://github.com/kapertdog/shrimp) and [Waba 🔆](https://github.com/kapertdog/waba)
 
-🐕‍🦺 Owner of: [strange dog's workshop](https://github.com/strange-dog-s-workshop)
+🐕‍🦺 Part of: [strange dog's workshop](https://github.com/strange-dog-s-workshop)
 
 🌱 Currently learning:
 
