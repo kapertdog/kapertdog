@@ -1,6 +1,6 @@
 ## Woof woof bark bark 👋
 
-😄 Pronouns: he / she / dog
+😄 Pronouns: she / her / dog
 
 🔊 Speak: en / ru & learning uk
 
